@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+h2{
+	text-align:center;
+}
+img,audio,video{
+	height:20rem;
+	width:20rem;
+}
